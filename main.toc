@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {0.1}Abstract}{1}{section.0.1}
+\contentsline {section}{\numberline {0.2}Innovation}{2}{section.0.2}
+\contentsline {section}{\numberline {0.3}Potential Discovery of Life and it's Implications}{3}{section.0.3}
+\contentsline {section}{\numberline {0.4}Resources}{4}{section.0.4}
+\contentsline {section}{\numberline {0.5}Politics}{5}{section.0.5}
+\contentsline {section}{\numberline {0.6}Interest}{6}{section.0.6}
+\contentsline {section}{\numberline {0.7}Bibliography}{7}{section.0.7}
