@@ -1,10 +1,10 @@
-PWD /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test
+PWD /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test/main.tex
-OUTPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test/main.log
+INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article/main.tex
+OUTPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article/main.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/report.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/report.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
@@ -46,21 +46,21 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
-INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test/main.aux
-INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test/main.aux
-OUTPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test/main.aux
+INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article/main.aux
+INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article/main.aux
+OUTPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article/main.aux
 INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test/main.out
-INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test/main.out
-INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test/main.out
-INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test/main.out
-OUTPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test/main.pdf
+INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article/main.out
+INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article/main.out
+INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article/main.out
+INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article/main.out
+OUTPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article/main.pdf
 INPUT ./main.out
 INPUT ./main.out
-OUTPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test/main.out
+OUTPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article/main.out
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
@@ -68,8 +68,8 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test/main.toc
-INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test/main.toc
+INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article/main.toc
+INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article/main.toc
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
@@ -78,25 +78,25 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
-OUTPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test/main.toc
+OUTPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article/main.toc
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test/sections/abstract.tex
-INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test/sections/abstract.tex
-INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test/sections/innovation.tex
-INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test/sections/innovation.tex
-INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test/sections/life.tex
-INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test/sections/life.tex
-INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test/sections/resources.tex
-INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test/sections/resources.tex
-INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test/sections/politics.tex
-INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test/sections/politics.tex
-INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test/sections/interest.tex
-INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test/sections/interest.tex
-INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test/sections/bibliography.tex
-INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test/sections/bibliography.tex
+INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article/sections/abstract.tex
+INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article/sections/abstract.tex
+INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article/sections/innovation.tex
+INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article/sections/innovation.tex
+INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article/sections/life.tex
+INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article/sections/life.tex
+INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article/sections/resources.tex
+INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article/sections/resources.tex
+INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article/sections/politics.tex
+INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article/sections/politics.tex
+INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article/sections/interest.tex
+INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article/sections/interest.tex
+INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article/sections/bibliography.tex
+INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article/sections/bibliography.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
-INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Latex Test/main.aux
+INPUT /home/richard/Desktop/Antell_Website/Articles/Mars: The Renovation of Earth/Article/main.aux
 INPUT ./main.out
 INPUT ./main.out
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
